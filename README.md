@@ -87,6 +87,27 @@ These insights help understand:
 
 ---
 
+## How to Run the Project ▶️
+
+### Clone Repository
+```bash
+git clone https://github.com/pulkitmehta16/Netflix-data-analysis
+cd project-folder
+```
+
+### Install Dependencies
+```bash
+pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
+```
+
+### Run Analysis
+- Open Jupyter Notebook / Python script
+- Execute data cleaning and EDA steps
+- Connect to MySQL for SQL analysis
+- Open Power BI dashboard file
+
+---
+
 ## Future Improvements 🚀
 Possible future enhancements include:
 - Recommendation system
