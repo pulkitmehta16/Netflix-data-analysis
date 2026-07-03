@@ -67,7 +67,7 @@ An interactive dashboard was created to visualize key insights.
 ---
 
 ## Dashboard Preview 🖥️
-<img width="1418" height="727" alt="netflix_dashboard" src="https://github.com/user-attachments/assets/cba2d39b-d3d0-47a5-acd1-6bd7b7c2637c" />
+<img width="1418" height="726" alt="netflix_dashboard" src="https://github.com/user-attachments/assets/a60bbd4b-3070-4f4d-9506-77917c684a79" />
 
 ---
 
